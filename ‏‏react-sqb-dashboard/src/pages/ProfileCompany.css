@@ -1,0 +1,41 @@
+.Ap{
+  position:relative;
+  background-color: rgb(228, 228, 228);
+  box-shadow: 7px 10px 7px -7px rgba(0, 0, 0, 0.9);
+  -webkit-box-shadow: 7px 10px 7px -7px rgba(0, 0, 0, 0.9);
+  -moz-box-shadow: 7px 10px 7px -7px rgba(0, 0, 0, 0.9);
+  border-radius: 50px 50px 50px 50px;
+  -webkit-border-radius: 50px 50px 50px 50px;
+  -moz-border-radius: 50px 50px 50px 50px;
+  margin: auto;
+  width: 85%;
+  padding: 15px;
+  margin-top: 70px;
+
+}
+
+.pp{
+  position:relative;
+  background-color:rgba(90, 85, 85, 0.9);
+  align-items: center;
+  font-family: sans-serif;
+  text-align: center;
+  width: 900px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 40px;
+  margin:auto;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+.name{
+
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.name1{
+ 
+  font-size: 2em;
+  font-weight: bold;
+}
